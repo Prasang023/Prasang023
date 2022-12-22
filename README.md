@@ -1,32 +1,23 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Prasang Maheshwari </h1>
-<h3 align="center">Web Developer | Programmer | Designer</h3>
-<p align="center">
-<a href="https://www.codechef.com/users/prasang023" target="blank"><img align="center" src="https://icons-for-free.com/download-icon-codechef-1324440139527402917_512.png" alt="Codechef" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/prasang-maheshwari-40923a201/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="Linkedin" height="30" width="40" /></a>
-<a href="https://www.instagram.com/__prasang__/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="instagram" height="30" width="40" /></a>
-<a href="https://www.facebook.com/somu.mahe.23" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="facebook" height="30" width="40" /></a>
- <a href = "mailto: prasang023.2@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
-</p>
-<p align="center">
-  <em>
-    Hello, I am Prasang Maheshwari, an undergraduate <b>sophomore</b> from <a href="http://www.iiitsurat.ac.in/"> <b>Indian Institute of Informmation Technology, Surat,</b></a> India. <br>
-    <b>a passionate self-learner</b> and a <b>Web Developer</b>&nbsp &nbsp,<br>who is <b>obsessed</b>
-    with <b>Graphic Design</b>.
-  </em>
-  <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
-</p>
+
+# Hi there ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Prasang Maheshwari
+[![Linkedin Badge](https://img.shields.io/badge/-Prasang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prasang-maheshwari-40923a201/)](https://www.linkedin.com/in/prasang-maheshwari-40923a201/) 
+[![Gmail Badge](https://img.shields.io/badge/-Prasang023@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Prasang023@gmail.com)](mailto:Prasang023@gmail.com)
+[![](https://badges.peiyuan.ch/leetcode/Prasang023/ranking?label=Prasang023&logo=leetcode)](https://leetcode.com/Prasang023)
+[![Linktree Badge](https://img.shields.io/badge/Linktree-43E55E.svg?style=?style=flat-square&logo=appveyor&logo=Linktree&logoColor=white)](https://linktr.ee/prasang023)
+
+[comment]: <> (<p align="left"> <img src="https://komarev.com/ghpvc/?username=Prasang023" alt="Prasang023" /> </p>)
+
+I'm a Pre-Final Year undergraduate student at Indian Institute of Information Technology, Surat pursuing B.Tech in Computer Science and Engineering. I'm a full stack web developer, designer and a Blockchain enthusiast.
 
 ## 👨About Me
 
-* 💻 I'm a full stack web developer, UI/UX designer, Competitive Programmer.
-* 🔭 I'm currently learning machine learning and UI/UX.
-* 🌱 I'm currently working on MERN stack web development.
-* 👯 I'm looking to collaborate on projects.
-* 🤔 Talk me about football, finance, tech, politics, etc.
-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+* 💻 I'm a full stack web developer, UI/UX designer, Competitive Programmer and Blockchain Enthusiast.
+* 🔭 I'm currently working to hone my Web3.0 skills.
+* 🌱 I'm work on MERN stack web development.
+* 👯 I'm looking to collaborate on Web3.0 projects.
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-## 👨‍💻 Languages and Tools:
+## 👨‍💻 Some Tools and Tech I use:
 
 <table>
     <tbody>
@@ -50,8 +41,7 @@
         <tr>
             <td><a href="#"><img alt="C++" title="C++" height="28px"
                         src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /></a></td>
-            <td><a href="#"><img alt="C#" title="C#" height="28px"
-                        src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" /></a></td>
+            <td><a href="#"><img alt="React" title="React" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></a></td>
             <td><a href="#"><img alt="Typescript" title="Typescript" height="28px"
                         src="https://img.icons8.com/ios-filled/250/000000/typescript.png" /></a></td>
             <td><a href="#"><img alt="MongoDB" title="MongoDB" height="28px"
@@ -67,8 +57,7 @@
             <td><a href="#"><img alt="Figma" title="Figma" height="28px"
                         src="https://img.icons8.com/color/144/000000/figma--v1.png" /></a>
             </td>
-            <td><a href="#"><img alt="Sheets" title="Sheets" height="28px"
-                        src="https://img.icons8.com/color/48/000000/google-sheets.png" /></a></td>
+            <td><a href="#"><img alt="Firebase" title="Firebase" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></a></td>
             <td><a href="#"><img alt="Markdown" title="Markdown" height="28px"
                         src="https://i.imgur.com/eO5z1xV.png" /></a></td>
             <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
@@ -81,25 +70,26 @@
             </td>
             <td><a href="#"><img alt="Visual Studio" title="Visual Studio Code" height="28px"
                         src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a></td>
-            <td><a href="#"><img alt="Android Studio" title="Android Studio" height="28px"
-                        src="https://i.imgur.com/6nJGNMN.png" /></a></td>
+            <td><a href="#"><img alt="Ethereum" title="Ethereum" height="28px"
+                        src="https://img.icons8.com/color/512/ethereum.png" /></a></td>
             <td><a href="#"><img alt="Heroku" title="Heroku" height="28px"
                         src="https://img.icons8.com/color/48/000000/heroku.png" /></a></td>
-            <td><a href="https://brave.com/eyl243"><img alt="Brave" title="Brave" height="28px"
-                        src="https://i.imgur.com/UfBWFbP.png" /></a></td>
+            <td><a href="#"><img alt="git" title="git" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a></td>
         </tr>
     </tbody>
 </table>
 
 ## ⚙️Git Analytics
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Prasang023&theme=dark&show_icons=true" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasang023&theme=dark&layout=compact" width="410" /></p>
 
-## 🔥 My contribution streak
-
-<p align="center">
-  <a href="https://github.com/Prasang023/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prasang023#version3"/>
-  </a>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Prasang023&theme=dark&show_icons=true" />
 </p>
+<p>
+<a href="https://github.com/Prasang023/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prasang023#version3"/>
+</a>
+</p>
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=Prasang023)
