@@ -81,10 +81,6 @@ I'm a Pre-Final Year undergraduate student at Indian Institute of Information Te
 
 ## ⚙️Git Analytics
 
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Prasang023&theme=dark&show_icons=true" />
-</p>
 <p>
 <a href="https://github.com/Prasang023/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prasang023#version3"/>
