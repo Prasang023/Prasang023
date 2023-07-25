@@ -12,10 +12,9 @@ I'm a Pre-Final Year undergraduate student at Indian Institute of Information Te
 
 ## 👨About Me
 
-* 💻 I'm a full stack web developer, UI/UX designer, Competitive Programmer and Blockchain Enthusiast.
-* 🔭 I'm currently working to hone my Web3.0 skills.
-* 🌱 I'm work on MERN stack web development.
-* 👯 I'm looking to collaborate on Web3.0 projects.
+* 💻 I'm into full stack web development, UI/UX designing, blockchain development, and open source contribution.
+* 🔭 I'm currently working to hone my Web3 skills.
+* 👯 I'm actively looking to collaborate on interesting projects.
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 ## 👨‍💻 Some Tools and Tech I use:
@@ -89,4 +88,4 @@ I'm a Pre-Final Year undergraduate student at Indian Institute of Information Te
 </p>
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Prasang023)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Prasang023)
