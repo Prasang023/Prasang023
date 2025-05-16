@@ -7,7 +7,7 @@
 
 [comment]: <> (<p align="left"> <img src="https://komarev.com/ghpvc/?username=Prasang023" alt="Prasang023" /> </p>)
 
-I'm just another software engineer working to "make world a better place".. really? I'm just on my journey to learn all the complicated stuff and eventually build something that I can retire upon, which makes some difference in someone's life if not mine.
+I'm just another software engineer working to "make world a better place".. really? I'm only on my journey to learn all the complicated stuff and eventually build something that I can retire upon, which makes some difference in someone's life.
 
 ## 👨About Me
 
