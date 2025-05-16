@@ -7,13 +7,13 @@
 
 [comment]: <> (<p align="left"> <img src="https://komarev.com/ghpvc/?username=Prasang023" alt="Prasang023" /> </p>)
 
-I'm a Pre-Final Year undergraduate student at Indian Institute of Information Technology, Surat pursuing B.Tech in Computer Science and Engineering. I'm a full stack web developer, designer and a Blockchain enthusiast.
+I'm just another software engineer working to "make world a better place".. really? I'm just on my journey to learn all the complicated stuff and eventually build something that I can retire upon, which makes some difference in someone's life if not mine.
 
 ## 👨About Me
 
-* 💻 I'm into full stack web development, UI/UX designing, blockchain development, and open source contribution.
-* 🔭 I'm currently working to hone my Web3 skills.
-* 👯 I'm actively looking to collaborate on interesting projects.
+* 💻 I'm a software engineer who got started in the industry in 2023 and since then never stop building.
+* 🔭 I'm got my hands dirty from backend dev (django, golang, etc.), frontend dev (react, redux, angular, js) to mobile app develeopment (flutter and dart) and web3 development (polygon, ethereum, and lot more). You can see I'm versatile.
+* 👯 I'm always open for collaboration until the project is building a todo app.
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 ## 👨‍💻 Some Tools and Tech I use:
