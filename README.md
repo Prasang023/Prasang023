@@ -3,7 +3,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Prasang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prasang-maheshwari-40923a201/)](https://www.linkedin.com/in/prasang-maheshwari-40923a201/) 
 [![Gmail Badge](https://img.shields.io/badge/-Prasang023@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Prasang023@gmail.com)](mailto:Prasang023@gmail.com)
 [![](https://badges.peiyuan.ch/leetcode/Prasang023/ranking?label=Prasang023&logo=leetcode)](https://leetcode.com/Prasang023)
-[![Linktree Badge](https://img.shields.io/badge/Linktree-43E55E.svg?style=?style=flat-square&logo=appveyor&logo=Linktree&logoColor=white)](https://linktr.ee/prasang023)
 [![Portfolio](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://prasang.tech/)
 
 [comment]: <> (<p align="left"> <img src="https://komarev.com/ghpvc/?username=Prasang023" alt="Prasang023" /> </p>)
