@@ -11,9 +11,9 @@ I'm just another software engineer working to "make world a better place".. real
 
 ## 👨About Me
 
-* 💻 I'm a software engineer who got started in the industry in 2023 and since then never stop building.
-* 🔭 I'm got my hands dirty from backend dev (django, golang, etc.), frontend dev (react, redux, angular, js) to mobile app develeopment (flutter and dart) and web3 development (polygon, ethereum, and lot more). You can see I'm versatile.
-* 👯 I'm always open for collaboration until the project is building a todo app.
+* 💻 I'm a software engineer who began my professional journey in 2023—and haven’t stopped building since.
+* 🔭 I’ve worked across the stack: backend (Django, Golang), frontend (React, Redux, Angular, JavaScript), mobile (Flutter, Dart), and even web3 (Polygon, Ethereum, and more). Versatility is my strength.
+* 👯 I'm always up for exciting collaborations—as long as it’s not just another to-do app.
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 ## 👨‍💻 Some Tools and Tech I use:
